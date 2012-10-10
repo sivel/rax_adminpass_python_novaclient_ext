@@ -1,4 +1,4 @@
-os_adminpass_python_novaclient_ext
+rax_adminpass_python_novaclient_ext
 ==================================
 
 Admin pass extension for python-novaclient
@@ -6,7 +6,7 @@ Admin pass extension for python-novaclient
 Install
 -------
 
-    pip install git+git://github.com/sivel/os_adminpass_python_novaclient_ext.git
+    pip install git+git://github.com/sivel/rax_adminpass_python_novaclient_ext.git
 
 Usage
 -----

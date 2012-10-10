@@ -17,13 +17,13 @@ import setuptools
 
 
 setuptools.setup(
-    name="os_adminpass_python_novaclient_ext",
-    version="0.1",
+    name="rax_adminpass_python_novaclient_ext",
+    version="0.1.1",
     author="Matt Martz",
     author_email="matt@sivel.net",
     description="Admin Pass extension for python-novaclient",
     license="Apache License, Version 2.0",
-    packages=["os_adminpass_python_novaclient_ext"],
+    packages=["rax_adminpass_python_novaclient_ext"],
     install_requires=["python-novaclient"],
     classifiers=[
         "Development Status :: 5 - Production/Stable",
